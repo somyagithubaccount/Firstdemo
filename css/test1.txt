@@ -1,2 +1,0 @@
-Hello
-This is another text file craeted wihtin CSS folder.
